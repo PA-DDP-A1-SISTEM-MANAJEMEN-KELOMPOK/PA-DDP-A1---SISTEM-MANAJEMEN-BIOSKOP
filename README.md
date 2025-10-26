@@ -37,7 +37,8 @@ Flowchart sistem manajemen bioskop dibagi menjadi beberapa bagian, yaitu:
 
    Flowchart register akun user menjelaskan proses masuknya pengguna ke akun pribadi mereka untuk melakukan aktivitas pembelian dan transaksi.
    
-   <img width="2400" height="2800" alt="FLOCHART PA DDP-Register Akun User drawio" src="https://github.com/user-attachments/assets/c0aad9ac-039b-456a-a31a-8d48e9bd7311" />
+   <img width="12000" height="14000" alt="FLOCHART PA DDP-Register Akun User drawio (1)" src="https://github.com/user-attachments/assets/6436bebd-6426-439c-b48b-669f04f80a87" />
+
 
   
 
@@ -45,7 +46,8 @@ Flowchart sistem manajemen bioskop dibagi menjadi beberapa bagian, yaitu:
 
    Flowchart register akun client menjelaskan proses masuknya client ke akun berdasarkan instansi produser untuk melakukan pengajuan/penarikan film
    
-  <img width="2551" height="3301" alt="FLOCHART PA DDP-Regis Client drawio" src="https://github.com/user-attachments/assets/208cfc88-02ca-472d-885f-c4588a44962b" />
+  <img width="12662" height="16384" alt="FLOCHART PA DDP-Regis Client drawio (1)" src="https://github.com/user-attachments/assets/474a0045-c4d6-49c7-82a9-9a33e0e3706c" />
+
 
 6. Menu user
 

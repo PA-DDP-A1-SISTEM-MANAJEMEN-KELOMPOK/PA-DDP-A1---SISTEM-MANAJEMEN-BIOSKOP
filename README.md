@@ -79,8 +79,10 @@ Flowchart sistem manajemen bioskop dibagi menjadi beberapa bagian, yaitu:
 
 # Output Program  
 Berikut beberapa output dari program kelompok kami:  
+
+# PROGRAM STAFF BIOSKOP
 <img width="459" height="216" alt="staffb5" src="https://github.com/user-attachments/assets/96e01ed4-347e-4f23-927e-f0622c701436" />\
-Program Staff bioskop untuk menyetujui penarikan dan juga penayangan sebuah film.
+Program Staff Bioskop untuk menyetujui penarikan dan juga penayangan sebuah film.
 
 <img width="471" height="470" alt="staffb4 2" src="https://github.com/user-attachments/assets/45cd7387-c380-43ff-8e19-023483cb2352" />\
 Program Staff Bioskop, memilih opsi untuk melihat daftar film dan memperlihatkan Nama film, jam tayang, Harga (Mkoin), dan Theatre.
@@ -100,32 +102,66 @@ Program Staff Bioskop untuk menambahkan sebuah film, pertama staff akan memilih 
 <img width="444" height="482" alt="staffb1" src="https://github.com/user-attachments/assets/679a064e-99eb-4b65-9c11-afd251a3dfce" />\
 Program Staff Bioskop untuk menampilkan sebuah film dalam suatu paket yang dipilih.
 
+# PROGRAM STAFF CAFE
+<img width="419" height="232" alt="staffc5" src="https://github.com/user-attachments/assets/66ad4c40-9fc0-43ba-8e68-f9340e2b7bb9" />\
+Program Menu Staff Cafe, untuk menghapus merchandise dengan memasukan nama merch yang staff input.
+
+<img width="327" height="173" alt="staffc5 1" src="https://github.com/user-attachments/assets/9b8777fc-deaf-4937-ac52-ac5da1d8832e" />\
+Program Menu Staff Cafe, untuk melihat daftar merchandise.
+
+<img width="323" height="199" alt="staffc4 2" src="https://github.com/user-attachments/assets/4c6bb2ec-1637-47e5-bf47-1f4752065db7" />\
+Program Menu Staff Cafe, untuk melihat daftar merchandise setelah melakukan perubahan.
+
+<img width="377" height="101" alt="staffc4 1" src="https://github.com/user-attachments/assets/65318a38-07eb-4414-bd17-2da6fdbe6486" />\
+Program Menu Staff Cafe, untuk menambahkan merchandise dengan menginput, nama merchandise, stock merchandise, dan harga merchendise.
+
+<img width="325" height="161" alt="staffc3" src="https://github.com/user-attachments/assets/ff54306c-7e49-4446-966d-6cae280990c5" />\
+Program Menu Staff Cafe, setelah Staff menghapus Figure dari dalam daftar merch.
+
+<img width="420" height="189" alt="staffc2 2" src="https://github.com/user-attachments/assets/4eac6e4e-caa0-4a0e-bc5d-15efe304e085" />\
+Program Menu Staff Cafe, Tampilan Menu paket cemilan setelah di tambahkannya paket lainnya.
+
+<img width="261" height="121" alt="staffc2 1" src="https://github.com/user-attachments/assets/f79820c3-a268-4e65-aad9-4e1885c7c0ed" />\
+Program Menu Staff Cafe, untuk menambahkan paket baru kedalam daftar menu cafe.
+
+<img width="474" height="167" alt="staffc1" src="https://github.com/user-attachments/assets/42226c0a-237f-4e99-bb4b-b41efde833bc" />\
+Program Menu Staff Cafe, tampilan setelah menghapus menu di menu paket cafe.
+
+# PROGRAM MENU PELANGGAN
+<img width="413" height="86" alt="p4" src="https://github.com/user-attachments/assets/7f34b97f-a337-42f6-8cac-fe125e1e46b7" />\
+Program Menu Pelanggan, untuk mengisi saldo pelanggan yang dapat di tukarkan dengan Mkoin ataupun membeli Merchandise.
+
+<img width="471" height="102" alt="p3" src="https://github.com/user-attachments/assets/673c07d6-377b-4110-9cbb-b3cc8d106468" />\
+Program Menu  Pelanggan, Untuk menukarkan saldo menjadi Mkoin dengan ketentuan 1 Mkoin = 5000 jumlah saldo.
+
+<img width="564" height="203" alt="p2 2" src="https://github.com/user-attachments/assets/d0b5b7fe-ff6e-4ffe-aa13-3a44adfebf82" />\
+Program Menu Pelanggan, Untuk membeli sebuah tiket dengan memasukan input nomor film.
+
+<img width="558" height="329" alt="p2 1" src="https://github.com/user-attachments/assets/6a3ef61d-1981-4128-90ca-72b13e352a41" />\
+Program Menu Pelanggan, Untuk membeli sebuah tiket dengan memasukan input nomor film, setelah berhasil membeli maka invoice akan di berikan.
+
+<img width="411" height="203" alt="p1" src="https://github.com/user-attachments/assets/4a91a00f-cdb2-47b5-b143-f45cd6104e14" />\
+Program Menu Pelanggan, untuk melihat film dari paket yang di pilih oleh pelanggan.
+
+# PROGRAM CAFE PELANGGAN
+<img width="343" height="323" alt="p5 3" src="https://github.com/user-attachments/assets/21e29b51-cb42-47a9-a501-e81546983c99" />\
+Program Cafe Pelanggan setelah Staff Cafe melakukan penghapusan pada merchendise nomor 2.
+
+<img width="416" height="354" alt="p5 2" src="https://github.com/user-attachments/assets/51ae80b4-e837-4aa0-b9d1-3800bf0541b3" />\
+Program Cafe Pelanggan untuk membeli sebuah paket makanan dengan memasukan noor bundle yang pelanggan masukan, setelah membeli maka akan muncul output struk atau invoice.
+
+<img width="302" height="112" alt="p5 1" src="https://github.com/user-attachments/assets/b7d0c497-4053-4e6b-a1e8-8a7601de97e4" />\
+Program Menu Cafe Pelanggan, untuk memilih beberapa pilihan seperti membeli paket makanan & minuman menggunakan Mkoin dan membeli merchandise menggunakan saldo.
+
+# PROGRAM CLIENT
 <img width="276" height="154" alt="c3" src="https://github.com/user-attachments/assets/248c6ac4-4e0d-420f-9c2d-60385dda3834" />\
 Program Client untuk melihat status film yang sedang di ajukan.
 
 <img width="405" height="78" alt="c2" src="https://github.com/user-attachments/assets/d8b82d51-2221-4658-80fc-14e5fccf233e" />\
 Program Client untuk mengajukan penarikan sebuah film.
 
-
 <img width="330" height="90" alt="c1" src="https://github.com/user-attachments/assets/4467946b-facf-4d2b-b790-c520570d3b11" />\
 Program Client untuk mengajukan penayangan sebuah film
-
-<img width="343" height="323" alt="p5 3" src="https://github.com/user-attachments/assets/21e29b51-cb42-47a9-a501-e81546983c99" />
-<img width="416" height="354" alt="p5 2" src="https://github.com/user-attachments/assets/51ae80b4-e837-4aa0-b9d1-3800bf0541b3" />
-<img width="302" height="112" alt="p5 1" src="https://github.com/user-attachments/assets/b7d0c497-4053-4e6b-a1e8-8a7601de97e4" />
-<img width="413" height="86" alt="p4" src="https://github.com/user-attachments/assets/7f34b97f-a337-42f6-8cac-fe125e1e46b7" />
-<img width="471" height="102" alt="p3" src="https://github.com/user-attachments/assets/673c07d6-377b-4110-9cbb-b3cc8d106468" />
-<img width="564" height="203" alt="p2 2" src="https://github.com/user-attachments/assets/d0b5b7fe-ff6e-4ffe-aa13-3a44adfebf82" />
-<img width="558" height="329" alt="p2 1" src="https://github.com/user-attachments/assets/6a3ef61d-1981-4128-90ca-72b13e352a41" />
-<img width="411" height="203" alt="p1" src="https://github.com/user-attachments/assets/4a91a00f-cdb2-47b5-b143-f45cd6104e14" />  
-<img width="419" height="232" alt="staffc5" src="https://github.com/user-attachments/assets/66ad4c40-9fc0-43ba-8e68-f9340e2b7bb9" />
-<img width="327" height="173" alt="staffc5 1" src="https://github.com/user-attachments/assets/9b8777fc-deaf-4937-ac52-ac5da1d8832e" />
-<img width="323" height="199" alt="staffc4 2" src="https://github.com/user-attachments/assets/4c6bb2ec-1637-47e5-bf47-1f4752065db7" />
-<img width="377" height="101" alt="staffc4 1" src="https://github.com/user-attachments/assets/65318a38-07eb-4414-bd17-2da6fdbe6486" />
-<img width="325" height="161" alt="staffc3" src="https://github.com/user-attachments/assets/ff54306c-7e49-4446-966d-6cae280990c5" />
-<img width="420" height="189" alt="staffc2 2" src="https://github.com/user-attachments/assets/4eac6e4e-caa0-4a0e-bc5d-15efe304e085" />
-<img width="261" height="121" alt="staffc2 1" src="https://github.com/user-attachments/assets/f79820c3-a268-4e65-aad9-4e1885c7c0ed" />
-<img width="474" height="167" alt="staffc1" src="https://github.com/user-attachments/assets/42226c0a-237f-4e99-bb4b-b41efde833bc" />
 
 
 

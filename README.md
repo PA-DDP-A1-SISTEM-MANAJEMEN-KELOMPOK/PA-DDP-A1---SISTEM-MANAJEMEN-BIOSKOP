@@ -79,6 +79,17 @@ Flowchart sistem manajemen bioskop dibagi menjadi beberapa bagian, yaitu:
 
 # Output Program  
 Berikut beberapa output dari program kelompok kami:  
+<img width="459" height="216" alt="staffb5" src="https://github.com/user-attachments/assets/96e01ed4-347e-4f23-927e-f0622c701436" />
+<img width="471" height="470" alt="staffb4 2" src="https://github.com/user-attachments/assets/45cd7387-c380-43ff-8e19-023483cb2352" />
+<img width="463" height="548" alt="staffb4 1" src="https://github.com/user-attachments/assets/e6a7d3bf-3729-45ef-a3e8-f0544336e5e7" />
+<img width="641" height="669" alt="staffb3" src="https://github.com/user-attachments/assets/28bd6146-14d6-41e3-bea2-c024ea049983" />
+<img width="437" height="492" alt="staffb2 2" src="https://github.com/user-attachments/assets/bf6d47c8-d3c7-49c9-b30c-850b04b11d96" />
+<img width="338" height="254" alt="staffb2 1" src="https://github.com/user-attachments/assets/a7db332c-c38e-44d9-aac3-570af4b55751" />
+<img width="444" height="482" alt="staffb1" src="https://github.com/user-attachments/assets/679a064e-99eb-4b65-9c11-afd251a3dfce" />
+<img width="276" height="154" alt="c3" src="https://github.com/user-attachments/assets/248c6ac4-4e0d-420f-9c2d-60385dda3834" />
+<img width="405" height="78" alt="c2" src="https://github.com/user-attachments/assets/d8b82d51-2221-4658-80fc-14e5fccf233e" />
+<img width="330" height="90" alt="c1" src="https://github.com/user-attachments/assets/4467946b-facf-4d2b-b790-c520570d3b11" />
+
 
 
 

@@ -1,0 +1,44 @@
+{
+    "Kategori": [
+        {
+            "kategori":"menu cafe",
+            "item": [
+                {
+            "paket": 1,
+            "nama makanan": "Croffle",
+            "nama minuman": "Milo Dino",
+            "mkoin": 50
+        },
+        {
+            "paket": 2,
+            "nama makanan": "Cream Puff",
+            "nama minuman": "Cappucino",
+            "mkoin": 45
+        },
+        {
+            "paket": 3,
+            "mkoin": 10,
+            "nama makanan": "",
+            "nama minuman": ""
+        }
+        ]
+    },
+    {
+            "kategori":"merch",
+            "item":[
+                {
+            "no":1,
+            "nama": "pukis",
+            "stock": "99",
+            "harga": 70000
+        },
+        {
+            "no":2,
+            "nama": "Cream Puff",
+            "stock": "99",
+            "harga": 100000
+        }
+            ]
+        }
+    ]
+}

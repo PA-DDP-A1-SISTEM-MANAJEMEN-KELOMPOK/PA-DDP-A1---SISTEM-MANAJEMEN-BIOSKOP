@@ -1,0 +1,21 @@
+{
+    "klien":[
+        {
+            "produser":"",
+            "password":"",
+            "pengajuan":[
+                {
+                    "judul film": "",
+                    "jenis": "",
+                    "status": ""
+                },
+                {
+                    "judul film": "",
+                    "alasan": "",
+                    "jenis": "",
+                    "status": ""
+                }
+            ]
+        }
+    ]
+}

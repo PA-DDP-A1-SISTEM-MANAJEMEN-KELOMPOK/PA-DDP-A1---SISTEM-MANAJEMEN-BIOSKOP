@@ -1,0 +1,122 @@
+{
+    "Daftar": [
+        {
+            "paket film": "Paket Film 1",
+            "Jam mulai": "00:01",
+            "Jam selesai": "11:30",
+            "item": [
+                {
+                    "film": "Tukar takdir",
+                    "tayang": "10:00",
+                    "mkoin": 40,
+                    "theater": 2
+                },
+                {
+                    "film": "Godzilla",
+                    "tayang": "10:30",
+                    "mkoin": 20,
+                    "theater": 5
+                },
+                {
+                    "film": "Conjuring",
+                    "tayang": "21:30",
+                    "mkoin": 30,
+                    "theater": 4
+                },
+                {
+                    "film": "Rangga dan cinta",
+                    "tayang": "11:00",
+                    "mkoin": 6,
+                    "theater": 2
+                },
+                {
+                    "film": "Rangga cinta",
+                    "tayang": "11:00",
+                    "mkoin": 2,
+                    "theater": 4
+                }
+            ]
+        },
+        {
+            "paket film": "Paket Film 2",
+            "Jam mulai": "11:31",
+            "Jam selesai": "17:00",
+            "item": [
+                {
+                    "film": "Kang mak",
+                    "tayang": "12:00",
+                    "mkoin": 35,
+                    "theater": 1
+                },
+                {
+                    "film": "Menuju pelaminan",
+                    "tayang": "13:30",
+                    "mkoin": 30,
+                    "theater": 2
+                },
+                {
+                    "film": "Tron",
+                    "tayang": "16:30",
+                    "mkoin": 30,
+                    "theater": 2
+                },
+                {
+                    "film": "Kak gem",
+                    "tayang": "12:00",
+                    "mkoin": 25,
+                    "theater": 4
+                }
+            ]
+        },
+        {
+            "paket film": "Paket Film 3",
+            "Jam mulai": "17:01",
+            "Jam selesai": "21:00",
+            "item": [
+                {
+                    "film": "Chainsaw man",
+                    "tayang": "17:30",
+                    "mkoin": 38,
+                    "theater": 1
+                },
+                {
+                    "film": "Deadpool 2",
+                    "tayang": "19:00",
+                    "mkoin": 30,
+                    "theater": 2
+                },
+                {
+                    "film": "Avenger endgame",
+                    "tayang": "20:10",
+                    "mkoin": 37,
+                    "theater": 3
+                }
+            ]
+        },
+        {
+            "paket film": "Paket Film 4",
+            "Jam mulai": "21:01",
+            "Jam selesai": "00:00",
+            "item": [
+                {
+                    "film": "The cursed",
+                    "tayang": "22:00",
+                    "mkoin": 35,
+                    "theater": 1
+                },
+                {
+                    "film": "Tumbal darah",
+                    "tayang": "23:10",
+                    "mkoin": 39,
+                    "theater": 2
+                },
+                {
+                    "film": "Rosario",
+                    "tayang": "23:30",
+                    "mkoin": 42,
+                    "theater": 3
+                }
+            ]
+        }
+    ]
+}

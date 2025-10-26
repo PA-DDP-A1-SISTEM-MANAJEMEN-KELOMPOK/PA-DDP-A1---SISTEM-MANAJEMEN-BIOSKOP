@@ -106,8 +106,27 @@ Program Client untuk melihat status film yang sedang di ajukan.
 <img width="405" height="78" alt="c2" src="https://github.com/user-attachments/assets/d8b82d51-2221-4658-80fc-14e5fccf233e" />\
 Program Client untuk mengajukan penarikan sebuah film.
 
+
 <img width="330" height="90" alt="c1" src="https://github.com/user-attachments/assets/4467946b-facf-4d2b-b790-c520570d3b11" />\
 Program Client untuk mengajukan penayangan sebuah film
+
+<img width="343" height="323" alt="p5 3" src="https://github.com/user-attachments/assets/21e29b51-cb42-47a9-a501-e81546983c99" />
+<img width="416" height="354" alt="p5 2" src="https://github.com/user-attachments/assets/51ae80b4-e837-4aa0-b9d1-3800bf0541b3" />
+<img width="302" height="112" alt="p5 1" src="https://github.com/user-attachments/assets/b7d0c497-4053-4e6b-a1e8-8a7601de97e4" />
+<img width="413" height="86" alt="p4" src="https://github.com/user-attachments/assets/7f34b97f-a337-42f6-8cac-fe125e1e46b7" />
+<img width="471" height="102" alt="p3" src="https://github.com/user-attachments/assets/673c07d6-377b-4110-9cbb-b3cc8d106468" />
+<img width="564" height="203" alt="p2 2" src="https://github.com/user-attachments/assets/d0b5b7fe-ff6e-4ffe-aa13-3a44adfebf82" />
+<img width="558" height="329" alt="p2 1" src="https://github.com/user-attachments/assets/6a3ef61d-1981-4128-90ca-72b13e352a41" />
+<img width="411" height="203" alt="p1" src="https://github.com/user-attachments/assets/4a91a00f-cdb2-47b5-b143-f45cd6104e14" />  
+<img width="419" height="232" alt="staffc5" src="https://github.com/user-attachments/assets/66ad4c40-9fc0-43ba-8e68-f9340e2b7bb9" />
+<img width="327" height="173" alt="staffc5 1" src="https://github.com/user-attachments/assets/9b8777fc-deaf-4937-ac52-ac5da1d8832e" />
+<img width="323" height="199" alt="staffc4 2" src="https://github.com/user-attachments/assets/4c6bb2ec-1637-47e5-bf47-1f4752065db7" />
+<img width="377" height="101" alt="staffc4 1" src="https://github.com/user-attachments/assets/65318a38-07eb-4414-bd17-2da6fdbe6486" />
+<img width="325" height="161" alt="staffc3" src="https://github.com/user-attachments/assets/ff54306c-7e49-4446-966d-6cae280990c5" />
+<img width="420" height="189" alt="staffc2 2" src="https://github.com/user-attachments/assets/4eac6e4e-caa0-4a0e-bc5d-15efe304e085" />
+<img width="261" height="121" alt="staffc2 1" src="https://github.com/user-attachments/assets/f79820c3-a268-4e65-aad9-4e1885c7c0ed" />
+<img width="474" height="167" alt="staffc1" src="https://github.com/user-attachments/assets/42226c0a-237f-4e99-bb4b-b41efde833bc" />
+
 
 
 

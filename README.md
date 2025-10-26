@@ -58,7 +58,8 @@ Flowchart sistem manajemen bioskop dibagi menjadi beberapa bagian, yaitu:
 
     Flowchart cafe user merupakan turunan dari fitur cafe pada menu user. Flowchart ini spesifik membahas fitur apa saja yang dapat diakses pengguna pada cafe bioskop.
 
-    (Masukkan flowchart cafe user)
+<img width="2550" height="2200" alt="FLOCHART PA DDP-Cafe Pelanggan drawio (1)" src="https://github.com/user-attachments/assets/5f11abac-66e6-42be-8a3e-97793751b265" />
+    
 
 8. Menu Client
 

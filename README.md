@@ -67,7 +67,9 @@ Flowchart sistem manajemen bioskop dibagi menjadi beberapa bagian, yaitu:
 
     Flowchart menu client menjelaskan fitur fitur yang dapat diakses client berdasarkan instansi produser.
 
-    (Masukkan flowchart menu client)
+  ![1000661098](https://github.com/user-attachments/assets/4f9e7c88-62b1-4cae-8f3c-3df5627cae73)
+![1000661097](https://github.com/user-attachments/assets/cd303bfd-bf6b-4d71-ba28-90b87b65d8d2)
+
 
 # Fitur Program Sistem Manajemen Bioskop  
    Program ini memiliki fitur utama yaitu untuk melakukan manajemen pada bioskop seperti manajemen film bioskop dari client, manajemen cafe bioskop serta memanajemen merchandise di bioskop. Role yang dimiliki dari program ini secara garis besar terdapat 3 role yaitu staff, user/pelanggan, dan client. Role staff sendiri dibagi menjadi 2 role staff lagi yaitu role staff bioskop yang memanajemen bioskop seperti menambahkan film,menampilkan daftar film,mengubah data film, dan menghapus film. Sedangkan untuk role staff yang kedua yaitu staff cafe yang memanajemen bagian cafe dari bioskop seperti menambahkan menu cafe, menampilkan menu cafe, menambahkan merchandise, menampilkan merchandise, dan menghapus merchandise.  

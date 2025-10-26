@@ -104,10 +104,10 @@ Program Staff Bioskop untuk menampilkan sebuah film dalam suatu paket yang dipil
 Program Client untuk melihat status film yang sedang di ajukan.
 
 <img width="405" height="78" alt="c2" src="https://github.com/user-attachments/assets/d8b82d51-2221-4658-80fc-14e5fccf233e" />\
-Program CLient untuk mengajukan penarikan sebuah film.
+Program Client untuk mengajukan penarikan sebuah film.
 
 <img width="330" height="90" alt="c1" src="https://github.com/user-attachments/assets/4467946b-facf-4d2b-b790-c520570d3b11" />\
-Program CLient untuk mengajukan penayangan sebuah film
+Program Client untuk mengajukan penayangan sebuah film
 
 
 

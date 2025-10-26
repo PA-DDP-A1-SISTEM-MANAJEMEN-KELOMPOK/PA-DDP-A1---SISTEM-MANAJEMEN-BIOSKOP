@@ -51,7 +51,8 @@ Flowchart sistem manajemen bioskop dibagi menjadi beberapa bagian, yaitu:
 
     Flowchart menu user menjelaskan fitur fitur apa saja yang bisa diakses oleh pelanggan bioskop.
 
-    (Masukkan flowchart menu user)
+    <img width="3400" height="3301" alt="FLOCHART PA DDP-Menu User drawio (1)" src="https://github.com/user-attachments/assets/6e9deef9-e07f-43ad-a627-0e1815ff5b6e" />
+
 
 7. Cafe user
 
